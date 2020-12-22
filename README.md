@@ -2,13 +2,13 @@
 
 # by - Sachin Bhardwaj
 
-# 1. Open background.py
+# 1. Open background_select.py
 #   (a) Make sure that web camera is working
 #   (b) A window with name img will open with the camera
 #   (c) Press space key to click the photo and exit
 #   (d) Photo would be saved at the location where code is there in jpg format
 
-# 2. Open invisible_cloan.py
+# 2. Open invisible_cloaning.py
 #   (a) Make sure that web camera is working
 #   (b) Two windows will open with the camera
 #   (c) 1st window with name 'Your_camera' is the web camera
