@@ -8,7 +8,7 @@
 #   (c) Press space key to click the photo and exit
 #   (d) Photo would be saved at the location where code is there in jpg format
 
-# 2. Open invisible_cloaning.py
+# 2. Open invisible_cloaking.py
 #   (a) Make sure that web camera is working
 #   (b) Two windows will open with the camera
 #   (c) 1st window with name 'Your_camera' is the web camera
